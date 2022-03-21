@@ -1,0 +1,6 @@
+name: Scoreboard_ICEOUT
+version: '${project.version}'
+main: n0devx.scoreboard_iceout.Scoreboard_ICEOUT
+api-version: 1.18
+authors: [ N0devx ]
+description: Scoreboard Plugin for ICEOUT
